@@ -1,0 +1,5 @@
+.d {
+    background-repeat: no-repeat, repeat;
+    background-image: url("logo.jpg"), url("logo.jpg");
+    background-blend-mode: lighten;
+  }
